@@ -1,2 +1,2 @@
-# wearan.net
+# irc.wearan.net
 Net
